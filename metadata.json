@@ -1,0 +1,11 @@
+{
+  "name": "منصة التقييم والاختبارات التفاعلية",
+  "description": "صفحة تفاعلية متكاملة لعرض وإدارة التقييمات والاختبارات المضمنة مع أدوات مساعدة كالملاحظات والمؤقت والآلة الحاسبة.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
